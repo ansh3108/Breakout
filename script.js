@@ -17,6 +17,7 @@ let ball = {
     velocityX: ballVelocityX,
     velocityY: ballVelocityY
 };
+
 let blockArray = [], blockWidth = 50, blockHeight = 10;
 let blockColumns = 8, blockRows = 3, blockMaxRows = 10, blockCount = 0;
 let blockX = 15, blockY = 45;
