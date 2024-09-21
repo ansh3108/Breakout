@@ -1,3 +1,4 @@
+
 let board, context;
 let boardWidth = 500, boardHeight = 500;
 let playerWidth = 80, playerHeight = 10, playerVelocityX = 10;
